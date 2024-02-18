@@ -1,4 +1,4 @@
-# Authentication and Authorization Using JWT in Node JS with Express
+# NodeJS Project Setup
 
 ## Project setup
 
